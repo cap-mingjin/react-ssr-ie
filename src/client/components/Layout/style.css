@@ -1,0 +1,12 @@
+.container {
+  background: black url(../../assets/images/background.jpg) no-repeat fixed;
+  width: 640px;
+  height: 240px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.content {
+  height: 170px;
+  padding: 8px;
+}
